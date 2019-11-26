@@ -24,3 +24,7 @@ Clone the project in the localhost of your machine
 <code> git clone https://github.com/FrancineMoraes/basic-employee-crud.git </code>
 
 Access in your localhost
+
+[Proposta de sistema distribuído](sistemas-distribuidos.pdf)
+
+[Documentação](documentacao-de-rotas.pdf)
